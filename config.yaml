@@ -10,7 +10,7 @@ outputs:
     - JSON
 params:
   editURL: >-
-    https://github.com/docs-planet/website/edit/master/content/
+    https://github.com/docs-planet/docs-planet.github.io/edit/master/content/
   author: Juan Enciso
   description: "Conteudo diverso de documentacao, tutoriais, dicas entre outros"
   disableNextPrev: true
