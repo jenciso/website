@@ -1,5 +1,5 @@
 ---
-title: "Tutoriais 🧑💻"
+title: "Tutoriais 💻"
 description: "Tutoriais diversos"
 tags:
   - Tutoriais
